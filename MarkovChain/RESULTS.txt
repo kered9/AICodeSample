@@ -1,0 +1,83 @@
+Homer sentences
+purest springs laver straight busy care brings deep vase shone like star lay bottom chest went way waves sea opened
+Homer Model: 2.0441258636431773e-05
+Dickens Model: 1.4001778225834701e-100
+
+dispute prize richer achaian state supplies proud argos mycaena knows isles continents inclose woman matchless almost divine fit praise every
+Homer Model: 2.0441258636431773e-05
+Dickens Model: 2.8003556451669403e-100
+
+alalcomene put stop murderous doings mars went tent got spear bronze followed idomeneus big great deeds valour idomeneus thus daunted
+Homer Model: 1.3627505757621183e-05
+Dickens Model: 1.0000000000000018e-100
+
+erased even period degeneracy lawgivers sages appeared greece work poet already accomplished paid homage superior genius held nation mirror behold
+Homer Model: 6.813752878810591e-06
+Dickens Model: 1.0000000000000018e-100
+
+foresees fix d soul bread canisters shining mould amphinomus wines laugh gold oh mildly cries may heaven earth anointed delicate
+Homer Model: 6.813752878810591e-06
+Dickens Model: 1.0000000000000018e-100
+
+presumes anon heaven sad reverse injurious maid tis jove swelling tempest rears death present death every side trench black earth
+Homer Model: 6.813752878810591e-06
+Dickens Model: 1.0000000000000018e-100
+
+move great ulysses war o king pleased hears antinous bears food kid well fatted entrails tasteful food glowing embers cast
+Homer Model: 0.000333873891061719
+Dickens Model: 9.10115584679256e-100
+
+dissuaded showing unfavourable omens tydeus therefore polynices went way many pointed spear fell ground straight line behind binders bound bands
+Homer Model: 6.813752878810591e-06
+Dickens Model: 1.0000000000000018e-100
+
+brush working seas cautious name scylla suppress d dreadful sound chill d boldest breast meantime forgetful voice divine yet knows
+Homer Model: 2.0441258636431773e-05
+Dickens Model: 1.0000000000000018e-100
+
+notwithstanding ulysses insulted caesippus rest continue excesses strange prodigies seen theoclymenus augur explains destruction wooers ample hide swift word obedient
+Homer Model: 1.3627505757621183e-05
+Dickens Model: 1.1201422580667761e-99
+
+
+Dickens sentences
+curiously roughened forehead intent upon write much difficulty long made nervous without reason going hope must desolate night going directly
+Dickens Model: 2.100266733875202e-05
+Homer Model: 6.813752878810606e-101
+
+trained hate left mother annuity eight hundred pounds apiece trifling mark esteem slight acknowledgment kindness oliver exactly rejoined mr blathers
+Dickens Model: 1.4001778225834681e-05
+Homer Model: 2.0441258636431814e-100
+
+folded sat morning light heat contemplating wine shop stopped strike wall hand mutter tremendous curse direct answer could look upon
+Dickens Model: 0.0001540195604841815
+Homer Model: 2.0441258636431814e-100
+
+portionless girl blight upon name give friends reason suspect sordidly yielded first passion fastened clog hopes projects owe prevent opposing
+Dickens Model: 7.0008891129173406e-06
+Homer Model: 1.0000000000000018e-100
+
+hutches tellson oldest men carried business gravely took young sister another place beyond reach suspicion vile schemes desperate originators bitter
+Dickens Model: 7.0008891129173406e-06
+Homer Model: 1.0000000000000018e-100
+
+devil put together occasion yer know eh ha ha ha understands catechism trade old man sometimes directed eyes instant expectation
+Dickens Model: 0.000308039120968363
+Homer Model: 1.0000000000000018e-100
+
+eye vivid imagination master bates hands breeches pockets face twisted look semi comical woe fagin said sikes laying corner uncommon
+Dickens Model: 0.0006510826875013127
+Homer Model: 5.31472724547227e-99
+
+disguises art portraits every drinking age little late memory said mr giles short silence mr brownlow sat shading face hand
+Dickens Model: 7.0008891129173406e-06
+Homer Model: 1.0000000000000018e-100
+
+emigrant ah gracious monsieur heretofore marquis emigrant cry sleep demand heaven come deliver answer ah monsieur heretofore marquis st evremonde
+Dickens Model: 0.00012601600403251212
+Homer Model: 1.0000000000000018e-100
+
+cupboards answered oliver description said hump backed man opening door appearance stranger interrupted stranger lingering two hours clock struck ten
+Dickens Model: 1.4001778225834681e-05
+Homer Model: 1.0000000000000018e-100
+
